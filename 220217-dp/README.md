@@ -1,4 +1,4 @@
-# 220110 DynamicProgramming - BOJ 10문제 (~Silver1)
+# 220217 DynamicProgramming - BOJ 10문제 (~Silver1)
 |          유형       |Platform - Qname (#)         |Tier(Level)(레벨)      |
 |---------------------|-----------------------------|------------|
 |dp         |    BOJ - `1로 만들기 (1463)`     |    silver 3    |

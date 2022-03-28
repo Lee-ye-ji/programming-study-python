@@ -1,4 +1,4 @@
-# 220110 BruteForce - BOJ 10문제 (~Silver1)
+# 220124 BruteForce - BOJ 10문제 (~Silver1)
 |          유형       |Platform - Qname (#)         |Tier(Level)(레벨)      |
 |---------------------|-----------------------------|------------|
 |bruteforce         |    BOJ - `한수 (1065)`     |    silver 4    |
